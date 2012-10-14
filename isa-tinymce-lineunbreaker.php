@@ -3,7 +3,7 @@
 Plugin Name: Lineunbreaker
 Plugin URI: http://wordpress.org/extend/plugins/lineunbreaker/ 
 Description: Removes line breaks from selected text in visual editor.
-Version: 1.0
+Version: 1.1
 Author: dc5ala
 License: GPL2
 */

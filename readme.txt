@@ -3,7 +3,7 @@ Contributors: dc5ala
 Tags: tinymce, editor, newlines, linebreaks
 Requires at least: 3.2
 Tested up to: 3.4.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,9 @@ clean.
 Newslines (backslash n), carriage returns (backslash r) and HTML `<br>` tags.
 
 == Changelog ==
+
+= 1.1 =
+* Removed whitespace as replacement. Let me know when you have troubles with joined sentences missing a space.
 
 = 1.0 =
 * Initial release.

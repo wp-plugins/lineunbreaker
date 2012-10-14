@@ -5,7 +5,7 @@
 		init : function(ed, url) {
 			ed.addCommand('mceLineunbreak', function() {
 				var content = ed.selection.getContent();
-				var contentClean = content.replace(/(\r\n|\n|\r|<br\s*[\/]?>)/gim, ' ');
+				var contentClean = content.replace(/(\r\n|\n|\r|<br\s*[\/]?>)/gim, '');
 				ed.selection.setContent(contentClean);
 			});
 
@@ -24,7 +24,7 @@
 				author : 'Andre Lohan',
 				authorurl : 'http://wordpress.org/extend/plugins/lineunbreaker/',
 				infourl : '',
-				version : "1.0"
+				version : "1.1"
 			};
 		}
 	});
