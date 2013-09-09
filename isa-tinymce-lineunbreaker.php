@@ -3,12 +3,12 @@
 Plugin Name: Lineunbreaker
 Plugin URI: http://wordpress.org/extend/plugins/lineunbreaker/ 
 Description: Removes line breaks from selected text in visual editor.
-Version: 1.1
+Version: 1.1.1
 Author: dc5ala
 License: GPL2
 */
 
-/*  Copyright 2012  Andre Lohan  (email : dc5ala@darc.de)
+/*  Copyright 2013  Andre Lohan  (email : dc5ala@darc.de)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 

@@ -2,7 +2,7 @@
 Contributors: dc5ala 
 Tags: tinymce, editor, newlines, linebreaks
 Requires at least: 3.2
-Tested up to: 3.5
+Tested up to: 3.6
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -25,9 +25,12 @@ clean.
 
 = What kind of line breaks are getting removed? =
 
-Newslines (backslash n), carriage returns (backslash r) and HTML `<br>` tags.
+Newslines (backslash n), carriage returns (backslash r) and HTML `<br>` tags. Paragraphs remain untouched.
 
 == Changelog ==
+
+= 1.1.1 =
+* Updated compatible version information
 
 = 1.1 =
 * Removed whitespace as replacement. Let me know when you have troubles with joined sentences missing a space.
